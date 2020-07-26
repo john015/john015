@@ -10,6 +10,6 @@
 - 어떤 라이브러리나 언어를 사용할 때 그냥 사용하지 않고 내부 동작 원리, 탄생 배경, 장점에 대해 이해하고 사용하는 것을 선호합니다.
 - 잊지 않기 위해 [TIL](https://github.com/john015/TIL)에 머리속에 있는 지식이나 새로 알게 된 지식을 정리하고 있습니다.
 
-### Contact
-
-[facebook](https://www.facebook.com/profile.php?id=100009442556503)&nbsp; [linkedin](https://www.linkedin.com/in/sangwon-lee-3309a9165/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009442556503)](https://www.facebook.com/profile.php?id=100009442556503)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangwon-lee-3309a9165/)](https://www.linkedin.com/in/sangwon-lee-3309a9165/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsw0150305@gmail.com)](mailto:lsw0150305@gmail.com)
