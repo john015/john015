@@ -2,9 +2,6 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohn015)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john015)
-
-
 - 변경하기 쉬운 코드를 작성하려고 노력합니다.
 - 빠르게 변화하는 웹 개발 트렌드에 뒤처지지 않기위해 주기적으로 정보를 탐색합니다.
 - 프로그래머는 코드로 말해야 한다고 생각하고, 주석을 최대한 지양하며, 의미 있는 변수명/함수명을 짓기 위해 노력합니다.
